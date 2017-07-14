@@ -1,0 +1,89 @@
+{
+  "questions": {
+    "1": {
+      "a1": "Activity",
+      "a2": "Service",
+      "a3": "Broadcast Receiver",
+      "a4": "Content provider",
+      "q_text": "Android'in ana bileşenleri nelerdir?",
+      "t_id": 4
+    },
+    "2": {
+      "a1": "Activity oluşturmak.",
+      "a2": "Alt sınıflar için grafiksel arayüz oluşturmak.",
+      "a3": "Geliştiricilere uygulama yazmasına izin verir.",
+      "a4": "Hiçbiri",
+      "q_text": "super.onCreate()'in amacı nedir?",
+      "t_id": 2
+    },
+    "3": {
+      "a1": "finish()",
+      "a2": "finishActivity(int requestCode)",
+      "a3": "A & B",
+      "a4": "kill()",
+      "q_text": "Android'de activity nasıl kapatılır?",
+      "t_id": 3
+    },
+    "4": {
+      "a1": "Margin, yerleşimdeki 4 tarafın kalan boş alanı belirler.",
+      "a2": "Padding, bir görünümün içeriğini belirli px veya dp ile dengelemek için kullanılır.",
+      "a3": "A & B",
+      "a4": "Hiçbiri",
+      "q_text": "Padding ile margin arasındaki fark nedir?",
+      "t_id": 3
+    },
+    "5": {
+      "a1": "Hayır",
+      "a2": "Yanlış soru",
+      "a3": "Evet",
+      "a4": "Hiçbiri",
+      "q_text": "Eylem veya eylemler gerçekleştirmek için layoutu olmayan activity kullanmak mümkün mü?",
+      "t_id": 3
+    },
+    "6": {
+      "a1": "Android packages",
+      "a2": "Android pack kit",
+      "a3": "Android packaging kit",
+      "a4": "Android pack",
+      "q_text": "APK'nın açılımı nedir?",
+      "t_id": 3
+    },
+    "7": {
+      "a1": "Bir servis",
+      "a2": "Arkaplan activity",
+      "a3": "Broadcast Receiver",
+      "a4": "İş parçacığı",
+      "q_text": "Thread nedir?",
+      "t_id": 4
+    },
+    "8": {
+      "a1": "Yalnızca radyo arabirimi katmanının ve alarmın aktif modda olması",
+      "a2": "Telefonun kapalı durması",
+      "a3": "Uçak modu",
+      "a4": "Hiçbiri",
+      "q_text": "Android'de uyku modu nedir?",
+      "t_id": 1
+    },
+    "9": {
+      "a1": "Uygulamalar arası veri göndermek",
+      "a2": "Veritabanında veri depolamak",
+      "a3": "Uygulamalar arası veri paylaşmak",
+      "a4": "Hiçbiri",
+      "q_text": "Content provider'ın kullanım alanı nedir?",
+      "t_id": 3
+    },
+    "10": {
+      "a1": "startActivityToResult()",
+      "a2": "startActivityForResult()",
+      "a3": "Bundle()",
+      "a4": "Hiçbiri",
+      "q_text": "Android'de bir activityden nasıl yanıt alınır?",
+      "t_id": 2
+    }
+  },
+  "scores": {
+    "EEbHdVlDMMQa2k95HzUlWHFkuNP2": {
+      "score": 25
+    }
+  }
+}

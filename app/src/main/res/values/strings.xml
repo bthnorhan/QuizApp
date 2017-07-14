@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="tv_login_login">Giriş Yap</string>
+    <string name="btn_login_login">Giriş Yap</string>
+    <string name="et_login_email">E-Mail</string>
+    <string name="et_login_password">Şifre</string>
+    <string name="tv_login_notregistered">Hala kayıtlı değil misiniz?</string>
+
+    <string name="tv_register_register">Kayıt Ol</string>
+    <string name="btn_register_register">Kayıt Ol</string>
+    <string name="tv_register_email">E-Mail</string>
+    <string name="tv_register_password">Şifre</string>
+    <string name="tv_register_repassword">Tekrar Şifre</string>
+    <string name="tv_register_registered">Zaten kayıtlı mısınız?</string>
+
+    <string name="btn_main_quiz">Test Çöz</string>
+    <string name="btn_main_exit">Çıkış Yap</string>
+
+    <string name="btn_quiz_finish">Testi Bitir</string>
+    <string name="btn_quiz_nextquestion">Sonraki Soru</string>
+    <string name="btn_quiz_leaderboard">Skor Tablosu</string>
+
+    <string name="btn_leaderboard_main">Ana menüye dön</string>
+
+    <string name="there_is_an_error">Bir hata meydana geldi.</string>
+
+</resources>
